@@ -4,4 +4,3 @@ scikit-learn
 jupyter
 notebook
 nbconvert
-iust_ai_toolkit
