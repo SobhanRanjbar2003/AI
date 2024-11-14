@@ -1,1 +1,1 @@
-this is just test
+This GitHub page hosts projects for the undergraduate Artificial Intelligence course at Iran University of Science and Technology (IUST). The repository includes assignments, implementations, and experiments related to core AI topics covered in the course. These projects showcase fundamental AI techniques and applications, aligning with the curriculum requirements for Bachelor's students. The goal is to provide a platform for learning, sharing knowledge, and demonstrating practical AI skills.
