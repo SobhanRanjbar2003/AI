@@ -6,12 +6,12 @@ Hello, I'm Sobhan. All my projects in the fields of Artificial Intelligence, Mac
 Repository Structure
 
 Artificial Intelligence (AI)
-    |
-    —> Machine Learning (ML)
-         |
-         —> IUST
-                |
-                —> Project2-MLP
-                —> Project1-Decision-Tree
-         |
-         —> Deep Learning (DL)
+    |
+    ├── Machine Learning (ML)
+    │   |
+    │   ├── IUST
+    │   │   ├── Project2-MLP
+    │   │   └── Project1-Decision-Tree
+    │
+    └── Deep Learning (DL)
+
