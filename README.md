@@ -4,7 +4,7 @@ Hello, I'm Sobhan. All my projects in the fields of Artificial Intelligence, Mac
 سلام، من سبحان هستم. تمامی پروژه‌های من در زمینه هوش مصنوعی، یادگیری ماشین، و یادگیری عمیق در این ریپازیتوری قرار گرفته‌اند. در پایین، نحوه قرارگیری هر کدام از پروژه‌ها توضیح داده شده است. امیدوارم مورد استفاده شما قرار بگیرند و از آن لذت ببرید! 😊
 
 Repository Structure
-
+```
 Artificial Intelligence (AI)
     |
     ├── Machine Learning (ML)
@@ -14,4 +14,4 @@ Artificial Intelligence (AI)
     │   │   └── Project1-Decision-Tree
     │
     └── Deep Learning (DL)
-
+```
