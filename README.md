@@ -6,23 +6,20 @@ Repository Structure
 
 ```
 Artificial Intelligence (AI)
-    |
     ├── Machine Learning (ML)
-    │   |
     │   ├── IUST
+    │   │   ├── Project1-Decision-Tree
     │   │   ├── Project2-MLP
-    │   │   │   Project1-Decision-Tree
     │   │   └── Project3-Genetic
-    │   |
-    │   ├── Sharif universities
-    |   |   ├── HW1
-    |   |   ├── HW2
+    │   ├── Sharif Universities
+    │   │   ├── HW1
+    │   │   ├── HW2
     │   │   └── HW3
-    │   |
-    |   ├── Projects
-    |   |   ├── PersianTextDetection
-    |
-    └── Deep Learning (DL)
-        ├── TensorFlow
-
+    │   └── Projects
+    │       └── PersianTextDetection
+    ├── Deep Learning (DL)
+    │   ├── TensorFlow (⚒️The workers are busy working.)
+    │   └── PyTorch (⚒️The workers are busy working.)
+    └── Business Intelligence (BI)
+        └── (⚒️The workers are busy working.)
 ```
