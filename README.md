@@ -20,6 +20,8 @@ Artificial Intelligence (AI)
     ├── Deep Learning (DL)
     │   ├── TensorFlow (⚒️The workers are busy working.)
     │   └── PyTorch (⚒️The workers are busy working.)
+    ├── Big Data & Data Engineering(DATA)
+    │   └── (⚒️The workers are busy working.)
     └── Business Intelligence (BI)
         └── (⚒️The workers are busy working.)
 ```
