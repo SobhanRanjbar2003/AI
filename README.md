@@ -17,6 +17,8 @@ Artificial Intelligence (AI)
     │   │   └── HW3
     │   └── Projects
     │       └── PersianTextDetection
+    ├── Natural language processing (NLP)
+    │   └── (⚒️The workers are busy working.)
     ├── Deep Learning (DL)
     │   ├── TensorFlow (⚒️The workers are busy working.)
     │   └── PyTorch (⚒️The workers are busy working.)
